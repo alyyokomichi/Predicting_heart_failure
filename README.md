@@ -24,4 +24,4 @@ Analyze the dataset and use machine learning model for predicting mortality caus
   - Optimizing machine learning model
   - Prediction
   
-  Author: Anna Laura Yuri Yokomichi
+### Author: Anna Laura Yuri Yokomichi
